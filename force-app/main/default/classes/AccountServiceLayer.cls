@@ -11,7 +11,7 @@ public with sharing class AccountServiceLayer {
     private static String didExecuteMethod;
 
     /**
-     * @description Internal custom exception class
+     * @description Internal custom exception class new line here
      */
     public class ASLException extends Exception {
     }
